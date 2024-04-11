@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework._vP4GGUF.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modpacks/dawn.md","filePath":"modpacks/dawn.md","lastUpdated":1712842530000}'),o={name:"modpacks/dawn.md"};function s(d,n,c,r,p,m){return t(),e("div")}const f=a(o,[["render",s]]);export{i as __pageData,f as default};
